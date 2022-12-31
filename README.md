@@ -8,6 +8,16 @@ This code is the code to complete the beginner back-end submission in Dicoding, 
 - GET books by ID
 - PUT
 - DELETE
+
+## How to Run
+first you have to run the below syntax in the terminal where the above code is :
+```
+npm install
+```
+When finished, run the server using the command below:
+```
+npm run start
+```
  
  ## Created By
  **Dimas Dharu Ramadhan**
